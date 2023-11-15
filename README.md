@@ -1,16 +1,17 @@
-# animated_onboarding_screens
+# 🏵 Animated Intro
 
-Animated Onboarding Screens.
+Simple UI Screen 👍
 
-## Getting Started
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Shalaby-VBS/Animated_Intro/assets/149938388/74456bc0-dea7-472d-bdb4-697ab691e407
+
+
+## 🛠 Dependencies
+
+1️⃣ animations: ^2.0.3
